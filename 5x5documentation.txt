@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>5in5</title>
+</head>
+
+<body>
+
+<h2>5 in 5</h2>
+<section>
+<p>Objective: make one piece every day for five days based on a number of <b>contraints</b></p>
+
+		<img src="5in5/day1to2.jpg">
+		<img src="5in5/day1.jpg">
+		<img src="5in5/day3to5.jpg">
+		<img src="5in5/day4.jpg">
+		<img src="5in5/day5.jpg">
+		<img src="5in5/takeaway.jpg">
+		//<img src="">
+		//<img src="">
+
+</body>
+
+</html>
