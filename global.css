@@ -1,0 +1,235 @@
+/* @import url(../fonts/stylesheet.css);
+
+html {
+	background: #FFA url(../images/plant_tile.jpg) fixed;
+	color: gray;
+	overflow: scroll;
+}
+
+body {
+	background-color: #FFF;
+	width: 760px;
+	margin: 0 auto;
+	font: 14px/1.4em 'helvetica', serif;
+	visibility: hidden;
+}
+
+img {
+	vertical-align: bottom;
+}
+
+figure {
+	display: block;
+	margin: 0;
+}
+
+header {
+	background-color: hsla(113, 72%, 25%, 1);
+	color: rgba(255,255,255,.8);
+	padding: 20px;
+	font-variant: small-caps;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1rem;
+	text-align: center;
+	letter-spacing: .15em;
+}
+
+header img {
+	width: 760px;
+	height: 150px;
+}
+
+nav {
+	background-color: #A9A9A9;
+	color: #808080;
+	padding: 10px 10px;
+	font-family: 'georgian';
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline;
+	margin-right: 6px;
+	margin-left: 6px;
+}
+
+nav a {
+	color: white;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #ffffaa;
+	text-decoration: underline;
+}
+
+
+
+
+
+main {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
+
+
+heading styling
+h1, h2 {
+	color: #61D875;
+}
+
+h1 {
+	font: bold 160% 'helvetica', sans-serif;;
+	text-transform: uppercase !important;
+}
+
+h2 {
+	margin-top: 1.5em;
+	margin-bottom: .25em;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 1.25rem;
+}
+
+h2 + p {
+	margin-top: 0;
+}
+
+article h1 {
+	text-transform: none !important;
+}
+
+blockquote {
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+	white-space: pre;
+}
+
+
+li {
+	list-style: none
+	size: 2em;
+}
+
+
+dt {
+	font-weight: bold;
+	margin-top: .75ex;
+	text-decoration: overline;
+}
+
+dd {
+	margin-top: 1ex;
+	margin-left: 2em;
+}
+
+dd::first-line{
+	color: #900;;
+}
+
+cite.wordspacing {
+	word-spacing: 1em;
+}
+
+
+
+footer {
+	background-color: #e7b8e7;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+footer address {
+	font-style: normal;	
+}
+footer address:before {
+	content: "( ";
+	color: #FFA;
+	font-size: 150%;
+}
+footer address:after {
+	content: " )";
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+html {
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    text-align: center;
+	background-color: #white; /* pink */
+/*     background: #e7b8e7; */
+    color: #darkgray;
+	margin-right: 250px;
+    margin-left: 250px;
+	font-size: 22px;
+}
+
+a:visited {
+    color: hotpink;
+	text-decoration: none;
+}
+
+a:link {
+    color: magenta;
+	text-decoration: none;
+
+}
+
+a:hover {
+    color: cyan;
+}
+
+
+h1 {
+	color: yellow;
+	background-color: darkgray;
+}
+
+
+li {
+    size: 2em;
+	list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
